@@ -1,0 +1,3 @@
+/home/j.bandoni/esercizi/parallel-motion-detection/build/CMakeFiles/rebuild_cache.dir
+/home/j.bandoni/esercizi/parallel-motion-detection/build/CMakeFiles/edit_cache.dir
+/home/j.bandoni/esercizi/parallel-motion-detection/build/CMakeFiles/main.dir
