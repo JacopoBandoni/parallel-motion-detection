@@ -28,4 +28,4 @@ Several parallelism approaches are taken into consideration to reach better resu
 
 ## Note
 
-For more details regarding different implementations choices you can read the report.pdf
+For more details regarding different implementations choices you can read the document: report.pdf
