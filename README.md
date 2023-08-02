@@ -8,7 +8,7 @@ images, such that:
 3. Motion detect flag will be true in case more the k% of the pixels differ
 4. The output of the program is represented by the number of frames with motion detected
 
-Several programming version are taken into consideration to reach better results.
+Several parallelism approaches are taken into consideration to reach better results.
 
 ## Build instructions
 
@@ -20,8 +20,12 @@ Several programming version are taken into consideration to reach better results
     
     ./main 1 2 3 30 earth.mp4
 
-    1° argument: program version
+    1° argument: program versions (different parallelism approaches / used libraries)
     2° argument: number of workers
     3° argument: kernel size
     4° argument: percentage treshold
     5° argument: video name (of the one inside video directory)
+
+### Note
+
+For more details regarding different implementations choices you can read the report.pdf
