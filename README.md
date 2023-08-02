@@ -26,6 +26,6 @@ Several parallelism approaches are taken into consideration to reach better resu
     4° argument: percentage treshold
     5° argument: video name (of the one inside video directory)
 
-### Note
+## Note
 
 For more details regarding different implementations choices you can read the report.pdf
